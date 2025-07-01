@@ -38,12 +38,6 @@ This repository contains the source code for my personal developer portfolio. It
 
 ---
 
-## 📁 How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-
 📫 Contact Me
 Email: khensanikk109@gmail.com
 
