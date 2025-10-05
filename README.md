@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Khensani
+# Hi, I'm Khensani
 
 I'm a passionate **software developer** with a focus on full-stack development, embedded systems, and user-centered design. This is my personal portfolio website where I showcase some of the projects I've worked on, the tools I use, and what I'm currently learning.
 
 ---
 
-## 📌 About This Portfolio
+##  About This Portfolio
 
 This repository contains the source code for my personal developer portfolio. It's built with a modern, responsive design to highlight my skills and experience in software development.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, MySQL
+- **Backend:** PHP, MySQL, python, c++ & java
 - **Tools & Platforms:** Git, GitHub, XAMPP, Figma, VS Code, Raspberry Pi
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Responsive design (mobile-first)
 - Project showcase with live links
@@ -28,7 +28,7 @@ This repository contains the source code for my personal developer portfolio. It
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 | Project                  | Description                                                     | Technologies           |
 |--------------------------|-----------------------------------------------------------------|------------------------|
@@ -38,7 +38,7 @@ This repository contains the source code for my personal developer portfolio. It
 
 ---
 
-📫 Contact Me
+Contact Me
 Email: khensanikk109@gmail.com
 
 LinkedIn: www.linkedin.com/in/khensani-joyce-605b85331
